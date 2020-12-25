@@ -1,0 +1,69 @@
+body {
+    background-color: #ECECEC;
+    font-family: Raleway;
+}
+
+.navbar, .navbar a {
+    font-size: 13px;
+}
+
+.lead ul li
+{
+    text-align: left;
+}
+.header {
+    padding: 50px;
+    text-align: center;
+    font-weight: lighter;
+    padding-top: 20px;
+    padding-bottom: 5px;
+}
+
+.lead {
+    font-weight: lighter;
+    font-size: 1.1em;
+    padding-top: 15px;
+    line-height: 25px;
+}
+
+.form-group {
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.form-control {
+    font-weight: lighter;
+    font-family: sans-serif;
+}
+
+img {
+    height: 100px;
+    width: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.btn-default {
+    background-color: #252830;
+    color: #ECECEC;
+    border-color: #252830;
+    width: 85px;
+}
+
+.btn-default:hover {
+    background-color: #ECECEC;
+    color: #252830;
+    border-color: #252830;
+}
+
+.btn-default:visited {
+    background-color: #ECECEC;
+    color: #252830;
+    border-color: #252830;
+}
+
+#result {
+    display: inline;
+    width: 110px;
+}
